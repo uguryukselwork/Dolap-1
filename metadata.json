@@ -1,0 +1,7 @@
+{
+  "name": "Dolap - AI Wardrobe & Virtual Try-On",
+  "description": "Mobile-first AI wardrobe and virtual try-on app with smart clothing recognition, daily outfit suggestions, and virtual styling powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
